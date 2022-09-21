@@ -21,7 +21,7 @@
   "bugs": {
     "url": "https://github.com/rolling-scopes-school/kseniyamelnik-JSFE2022Q1/issues"
   },
-  "homepage": "https://github.com/rolling-scopes-school/kseniyamelnik-JSFE2022Q1#readme",
+  "homepage": "https://kseniyamelnik.github.io/Coffee-shop/",
   "devDependencies": {
     "@babel/preset-env": "^7.18.6",
     "@babel/preset-react": "^7.18.6",
